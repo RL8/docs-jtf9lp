@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-b4myli.indocuan-vip.sbs/sitemap.xml
